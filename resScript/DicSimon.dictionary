@@ -1,0 +1,22 @@
+<DICTIONARY>
+	<NB_LANGUAGES>2</NB_LANGUAGES>
+	<NB_ENTRY>1</NB_ENTRY>
+
+	<LANGUAGE>
+		<NAME>English</NAME>
+
+		<ENTRY>
+			<MAP>SimonSays</MAP>
+			<TXT>Simon says</TXT>
+		</ENTRY>
+	</LANGUAGE>
+
+	<LANGUAGE>
+		<NAME>Francais</NAME>
+
+		<ENTRY>
+			<MAP>SimonSays</MAP>
+			<TXT>Jean a dit</TXT>
+		</ENTRY>
+	</LANGUAGE>
+</DICTIONARY>
